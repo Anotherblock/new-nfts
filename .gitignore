@@ -12,3 +12,9 @@ docs/
 
 # Dotenv file
 .env
+
+
+
+deploy_and_verify.sh
+broadcast/
+lib/
